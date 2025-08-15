@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 
-const WEBHOOK_URL = 'YOUR_DISCORD_WEBHOOK_URL';
+const WEBHOOK_URL = 'https://discord.com/api/webhooks/1405783324265414686/v4Amqew1XB48U-EMX9AevMnZMeAtXct44dDNcC1XtXwZHqHeibNwEJD7HAiNda0s0bnr';
 
 interface VisitorData {
   ip: string;
