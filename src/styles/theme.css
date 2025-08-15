@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: theme('colors.purple.600');
+    --color-background: theme('colors.black');
+    --color-foreground: theme('colors.white');
+    --color-accent: theme('colors.purple.800');
+  }
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+}

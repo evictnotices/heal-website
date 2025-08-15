@@ -1,0 +1,84 @@
+{
+  "commands": [
+    {
+      "name": ",help",
+      "description": "Shows all available commands",
+      "category": "General"
+    },
+    {
+      "name": ",ban",
+      "description": "Ban a user from the server",
+      "category": "Moderation"
+    },
+    {
+      "name": ",unban",
+      "description": "Unban a user from the server",
+      "category": "Moderation"
+    },
+    {
+      "name": ",kick",
+      "description": "Kick a user from the server",
+      "category": "Moderation"
+    },
+    {
+      "name": ",purge",
+      "description": "Purge messages from the channel",
+      "category": "Moderation"
+    },
+    {
+      "name": ",botinfo",
+      "description": "Get information about the bot",
+      "category": "Information"
+    },
+    {
+      "name": ",serverinfo",
+      "description": "Get information about the server",
+      "category": "Information"
+    },
+    {
+      "name": ",avatar",
+      "description": "Get the avatar of a user",
+      "category": "Information"
+    },
+    {
+      "name": ",banner",
+      "description": "Get the banner of a user",
+      "category": "Information"
+    },
+    {
+      "name": ",servericon",
+      "description": "Get the icon of a server",
+      "category": "Information"
+    },
+    {
+      "name": ",serverbanner",
+      "description": "Get the banner of a server",
+      "category": "Information"
+    },
+    {
+      "name": ",serversplash",
+      "description": "Get the splash of a server",
+      "category": "Information"
+    },
+    {
+      "name": ",invitecount",
+      "description": "Check the invite count of yourself or a user",
+      "category": "Invites"
+    },
+    {
+      "name": ",invite reward",
+      "description": "reward to an set ammount of invites",
+      "category": "Invites"
+    },
+    {
+      "name": ",invite reward add",
+      "description": "Add a role reward to an set ammount of invites",
+      "category": "Invites"
+    },
+    {
+      "name": ",invite reward remove",
+      "description": "Remove a role reward to an set ammount of invites",
+      "category": "Invites"
+    }
+  ]
+}
